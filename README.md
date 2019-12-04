@@ -5,8 +5,9 @@ GRANTS deadline:
 
 Feb:
 5:  CIHR project grant  https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3117&view=currentOpps&type=EXACT&resultCount=25&sort=program&next=1&all=1&masterList=true
-CANADIAN LONGITUDINAL STUDY ON AGING (CLSA): CALL FOR PROPOSALS
- - 2020 application deadlines: ​​Feb. 12, June 17 and Oct. 7
+
+ - CANADIAN LONGITUDINAL STUDY ON AGING (CLSA): CALL FOR PROPOSALS
+2020 application deadlines: ​​Feb. 12, June 17 and Oct. 7
 Funding available: MIRA can support access fees ($3,000) for up to 10 CLSA data applications
 MIRA members are eligible for support in accessing CLSA data, a national database tracking 50,000 Canadians aged 45 to 85 over a period of 20 years. Data access applications are accepted three times per year. Researchers should notify Audrey Patocs by emailing her at ​patocsae@mcmaster.ca prior to applying for CLSA data access to be considered for MIRA funding. MIRA funds will be allocated only to projects that do not have any other funding for this purpose.
 

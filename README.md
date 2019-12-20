@@ -1,5 +1,8 @@
 TRY to look at *** community level *** of effects on behavior.
 
+# How to write a paper:
+https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/
+
 A good article on qualitative/interview methods: PMID: 31660976 Using concept mapping to inform the development of a transitional reintegration intervention program for formerly incarcerated people with HIV.
 background:  http://lalashan.mcmaster.ca/theobio/circumcision/index.php/Health_index:_A_DHS_data_anaysis
 

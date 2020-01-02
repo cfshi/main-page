@@ -8,8 +8,7 @@ background:  http://lalashan.mcmaster.ca/theobio/circumcision/index.php/Health_i
 
 GRANTS deadline:
 
-Jan 14: Grand Challenges Africa grant Gates fundation https://www.aasciences.africa/calls/grand-challenges-africa-innovation-seed-grants-round-8-maternal-neonatal-child-health-mnch
- - Grand Challenges Africa grant opportunity: Grand Challenges Africa is launching Round 8 of its Innovation Seed Grants program. This new request for proposals focuses on the top priorities for maternal, neonatal, and child health in Africa to meet the Sustainable Development Goal targets.
+
 Feb 1:  SSHRC Connection grant https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/connection_grants-subventions_connexion-eng.aspx
 
 Feb 5:  CIHR project grant  https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3117&view=currentOpps&type=EXACT&resultCount=25&sort=program&next=1&all=1&masterList=true

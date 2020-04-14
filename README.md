@@ -28,3 +28,6 @@ SSHRC https://www.sshrc-crsh.gc.ca/funding-financement/deadlines-limites-eng.asp
 NSERC: 
 
 MIRA https://mira.mcmaster.ca/research/funding-opportunities
+
+# Database
+- Facebook's[the Social Connectedness Index](https://dataforgood.fb.com/tools/social-connectedness-index/)
